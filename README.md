@@ -17,3 +17,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicio | Descripción |
 |-----------|-------------|
+|[Temperatura 1](./Tema_2/Conversor_F_a_Cº.java)| Ejercicio para convertir grados Fahrenheit en Celsius |
+|[Temperatura 2](./Tema_2/Conversor_Cº_a_F.java)| Ejercicio para convertir grados Celsius en Fahrenheit |
