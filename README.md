@@ -17,5 +17,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicio | Descripción |
 |-----------|-------------|
-|[Temperatura 1](./Tema_2/Conversor_F_a_Cº.java)| Ejercicio para convertir grados Fahrenheit en Celsius |
-|[Temperatura 2](./Tema_2/Conversor_Cº_a_F.java)| Ejercicio para convertir grados Celsius en Fahrenheit |
+|[Ejercicio 1](./Tema_2/Tiempo.java)| Ejercicio para calcular el tiempo según una cantidad de segundos |
+|[Ejercicio 2](./Tema_2/Salario.java)| Ejercicio para calcular el salario de un empleado |
+|[Ejercicio 3](./Tema_2/Conversor_F_a_Cº.java)| Ejercicio para convertir grados Fahrenheit en Celsius |
+|[Ejercicio 4](./Tema_2/Conversor_Cº_a_F.java)| Ejercicio para convertir grados Celsius en Fahrenheit |
