@@ -22,3 +22,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 3](./Tema_2/Conversor_F_a_Cº.java)| Ejercicio para convertir grados Fahrenheit en Celsius |
 |[Ejercicio 4](./Tema_2/Conversor_Cº_a_F.java)| Ejercicio para convertir grados Celsius en Fahrenheit |
 |[Ejercicio 5](./Tema_2/Cono.java)| Ejercicio para calcular el volumen del cono |
+|[Ejercicio 6](./Tema_2/ConversorBytes1.java)| Ejercicio para convertir MegaBytes en KiloBytes |
+|[Ejercicio 7](./Tema_2/ConversorBytes2.java)| Ejercicio para convertir KiloBytes en MegaBytes |
+|[Ejercicio 8](./Tema_2/Operaciones.java)| Ejercicio para resolver expresiones algebraicas |
+|[Ejercicio 9](./Tema_2/Randomizador.java)| Ejercicio para sumar dos números aleatorios |
