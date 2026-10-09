@@ -44,3 +44,10 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 10](./Tema_3/Horoscopo.java)| Ejercicio para determinar el horóscopo del usuario |
 |[Ejercicio 11](./Tema_3/Capicua.java)| Ejercicio para determinar si un número es capicua |
 |[Ejercicio 12](./Tema_3/NotaProgramacion.java)| Ejercicio para calcular la nota de programación de un alumno |
+
+## Tema 4: Métodos matemáticos, caracteres y cadenas
+
+| Ejercicio | Descripción |
+|-----------|-------------|
+|[Ejercicio 1](./Tema_4/CaidaObjeto.java)| Ejercicio para calcular el tiempo que tarda en caer un objeto desde una altura h |
+|[Ejercicio 2](./Tema_4/Funcion.java)| Ejercicio para calcular el resultado de una función cuyo valor es x = 0 |
