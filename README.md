@@ -26,3 +26,21 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 7](./Tema_2/ConversorBytes2.java)| Ejercicio para convertir KiloBytes en MegaBytes |
 |[Ejercicio 8](./Tema_2/Operaciones.java)| Ejercicio para resolver expresiones algebraicas |
 |[Ejercicio 9](./Tema_2/Randomizador.java)| Ejercicio para sumar dos números aleatorios |
+
+
+## Tema 3: Selecciones
+
+| Ejercicio | Descripción |
+|-----------|-------------|
+|[Ejercicio 1](./Tema_3/Randomizador_Suma.java)| Ejercicio para sumar dos numeros aleatorios |
+|[Ejercicio 2](./Tema_3/Edad.java)| Ejercicio para determinar la edad de un usuario |
+|[Ejercicio 3](./Tema_3/NumeroMayor.java)| Ejercicio para determinar cual de los dos números es el mayor |
+|[Ejercicio 4](./Tema_3/NumeroMenor.java)| Ejercicio para determinar cual de los tres números es el menor |
+|[Ejercicio 5](./Tema_3/Orden_Numeros.java)| Ejercicio para ordenar números de menor a mayor |
+|[Ejercicio 6](./Tema_3/Divisibilidad.java)| Ejercicio para determinar si un numero es divisible por los números 2 y 3 |
+|[Ejercicio 7](./Tema_3/AnoBisiesto.java)| Ejercicio para determinar si un año es bisiesto |
+|[Ejercicio 8](./Tema_3/ClasePrimeraHora.java)| Ejercicio para determinar qué clase toca a primera hora |
+|[Ejercicio 9](./Tema_3/SaludoHora.java)| Ejercicio que saluda al usuario dependiendo de la hora introducida |
+|[Ejercicio 10](./Tema_3/Horoscopo.java)| Ejercicio para determinar el horóscopo del usuario |
+|[Ejercicio 11](./Tema_3/Capicua.java)| Ejercicio para determinar si un número es capicua |
+|[Ejercicio 12](./Tema_3/NotaProgramacion.java)| Ejercicio para calcular la nota de programación de un alumno |
