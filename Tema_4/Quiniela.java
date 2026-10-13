@@ -10,7 +10,7 @@ public class Quiniela {
 		
 		for(int i=1; i<=15; i++){
 			
-			int numero = random.nextInt(6) + 1;
+			int numero = (int) (Math.random()*6) + 1;
 
             System.out.print("Partido "+i+": [ ");
             
