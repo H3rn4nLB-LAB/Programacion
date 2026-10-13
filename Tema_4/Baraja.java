@@ -6,8 +6,8 @@ public class Baraja {
 		
         Random random = new Random();
 		
-		int numeroPalo = random.nextInt(4)+1;
-		int numeroCarta = random.nextInt(13)+1;
+		int numeroPalo =  (int)(Math.random() * 4)+1;
+		int numeroCarta =  (int)(Math.random() * 4)+1;
 		
 		
 		 System.out.print("Tu carta al azar es: ");
