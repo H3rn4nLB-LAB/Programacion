@@ -13,44 +13,31 @@ public class Baraja {
 		String palo = "";
 		String valorCarta = "";
 		
-		switch(numeroPalo) {
-		    case 1: palo = "Picas"; 
-		    break;
-		    
-		    case 2: palo = "Corazones"; 
-		    break;
-		    
-		    case 3: palo = "Diamantes"; 
-		    break;
-		    
-		    case 4: palo = "Treboles"; 
-		    break;
+		if (numeroPalo == 1) {
+		    palo = "Picas";
+		} else if (numeroPalo == 2) {
+		    palo = "Corazones";
+		} else if (numeroPalo == 3) {
+		    palo = "Diamantes";
+		} else if (numeroPalo == 4) {
+		    palo = "Treboles";
 		}
 		
-		switch (numeroCarta) {
-		    case 1:  
-		    	valorCarta = "A (1)"; 
-		    	break;
-		    	
-            case 11: 
-            	valorCarta = "J"; 
-                break;
-                
-            case 12: 
-            	valorCarta = "Q"; 
-            	break;
-            	
-            case 13: 
-            	valorCarta = "K"; 
-            	break;
-            	
-            default: 
-
-            valorCarta = numeroCarta + ""; 
-            break;
+		
+		if (numeroCarta == 1) {
+		    valorCarta = "A (1)";
+		} else if (numeroCarta == 11) {
+		    valorCarta = "J";
+		} else if (numeroCarta == 12) {
+		    valorCarta = "Q";
+		} else if (numeroCarta == 13) {
+		    valorCarta = "K";
+		} else {
+		    valorCarta = numeroCarta + "";
 		}
 		
 		System.out.println("Tu carta al azar es: " + valorCarta + " de " + palo);
 	}
 
 }
+
