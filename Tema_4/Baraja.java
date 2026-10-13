@@ -1,9 +1,14 @@
+import java.util.Random;
+
 public class Baraja {
 	
 	public static void main(String[] args) {
 		
-		int numeroPalo = (int)(Math.random() * 4)+1;
-		int numeroCarta = (int)(Math.random() * 13)+1;
+        Random random = new Random();
+		
+		int numeroPalo = random.nextInt(4)+1;
+		int numeroCarta = random.nextInt(13)+1;
+		
 		
 		String palo = "";
 		String valorCarta = "";
