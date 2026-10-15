@@ -5,10 +5,9 @@ public class Quiniela {
 		System.out.println("Quiniela al azar");
 		
 		int i=1;
+		int numero = (int) (Math.random()*5) + 1;
 
 		while(i <= 15){
-			
-			int numero = (int) (Math.random()*5) + 1;
 
             System.out.print("Partido "+i+": [ ");
             
