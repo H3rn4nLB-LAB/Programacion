@@ -4,7 +4,7 @@ public class Quiniela {
 		
 		System.out.println("Quiniela al azar");
 		
-		int i=15;
+		int i=1;
 
 		while(i <= 15){
 			
