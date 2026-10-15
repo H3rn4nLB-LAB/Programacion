@@ -14,7 +14,7 @@ public class Quiniela {
             	System.out.print("1");
             } else if (numero == 4) {
             	System.out.print("X");
-            } else if(numero == 5) {
+            } else {
             	System.out.print("2");
             }
 			
