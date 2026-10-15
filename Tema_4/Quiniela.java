@@ -21,7 +21,8 @@ public class Quiniela {
             }
 			
 			System.out.println(" ]");
-			
+
+			i++;
 		}	
 	}
 
