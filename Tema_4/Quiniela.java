@@ -4,7 +4,9 @@ public class Quiniela {
 		
 		System.out.println("Quiniela al azar");
 		
-		for(int i=1; i<=15; i++){
+		int i=15;
+
+		while(i <= 15){
 			
 			int numero = (int) (Math.random()*5) + 1;
 
