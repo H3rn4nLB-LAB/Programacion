@@ -7,7 +7,7 @@ public class NumeroPartido {
          Scanner scanner = new Scanner(System.in);
          
          System.out.println("Introduzca un numero positivo: ");
-         String numero = scanner.nextLine();
+         String numero = scanner.next();
          
          System.out.println("Introduzca la posicion a partir de la cual quiere partir el número: ");
          int posicion = scanner.nextInt();
