@@ -57,4 +57,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 6](./Tema_4/LineaAleatoria.java)| Ejercicio para que un programa muestre una línea formada por un carácter al azar |
 |[Ejercicio 7](./Tema_4/LineaAleatoria2.java)| Ejercicio parecido al anterior, pero con otros carácteres distintos |
 |[Ejercicio 8](./Tema_4/NumeroPartido.java)| Ejercicio para partir un numero según la posición que se quiera |
+|[Ejercicio 9](./Tema_4/InsertarDigito.java)| Ejercicio para insertar un digito en un número según la posición que se quiera |
 
