@@ -58,5 +58,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 7](./Tema_4/LineaAleatoria2.java)| Ejercicio parecido al anterior, pero con otros carácteres distintos |
 |[Ejercicio 8](./Tema_4/NumeroPartido.java)| Ejercicio para partir un numero según la posición que se quiera |
 |[Ejercicio 9](./Tema_4/InsertarDigito.java)| Ejercicio para insertar un digito en un número según la posición que se quiera |
-|[Ejercicio 10](./Tema_4/InsertarMitad.java)| Ejercicio para dividir un texto por la mitad mediante el símbolo insertado '<>' |
-|[Ejercicio 11](./Tema_4/DividirporA.java)| Ejercicio para dividir una palabra a partir de la primera letra A |
+
