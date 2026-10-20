@@ -61,7 +61,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 10](./Tema_4/InsertarMitad.java)| Ejercicio para insertar un símbolo "<>" en la mitad de un texto |
 |[Ejercicio 11](./Tema_4/DividirPorA.java)| Ejercicio para dividir una palabra por la primera letra A |
 |[Ejercicio 12](./Tema_4/NotasRedondeadas.java)| Ejercicio para redondear las notas de un usuario, hacer la media y sacar la máxima y mínima nota |
-|[Ejercicio 13](./Tema_4/CadenaNumeros.java)| Ejercicio para almacenar un número en una cadena String|
-
+|[Ejercicio 13](./Tema_4/CadenaNumeros.java)| Ejercicio para almacenar un número en una cadena String |
+|[Ejercicio 14](./Tema_4/NombreYApellidos.java)| Ejercicio para mostrar en cadenas separadas el nombre y los apellidos del usuario |
 
 
