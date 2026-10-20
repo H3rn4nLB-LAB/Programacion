@@ -65,3 +65,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 14](./Tema_4/NombreYApellidos.java)| Ejercicio para mostrar en cadenas separadas el nombre y los apellidos del usuario |
 
 
+## Tema 5: Bucles
+
+| Ejercicio | Descripción |
+|-----------|-------------|
+
+
