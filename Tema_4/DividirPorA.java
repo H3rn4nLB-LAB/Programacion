@@ -9,22 +9,27 @@ public class DividirPorA {
         System.out.println("Introduzca una palabra: ");
         String palabra= scanner.next();
         
-        int posicionA = palabra.toLowerCase().indexOf('a');
+        int posicionaA = palabra.indexOf('a');
         
         
-        if(posicionA != -1) {
+        if(posicionaA != -1) {
         	
-        String primeraParte = palabra.substring(0, posicionA);
-        String segundaParte = palabra.substring(posicionA);
+        	   int posicionaaA = palabra.indexOf('A');
+        	
+        } 
         
-        System.out.println("Primera parte: " + primeraParte);
-        System.out.println("Segunda parte (desde la A): " + segundaParte);
-        
-        } else {
+        if(posicionaA == -1){
         	
         	System.out.println("La palabra no contiene la letra A");
         	
         }
+        
+        String primeraParte = palabra.substring(0, posicionaA);
+        String segundaParte = palabra.substring(posicionaA);
+        
+        System.out.println("Primera parte: " + primeraParte);
+        System.out.println("Segunda parte (desde la A): " + segundaParte);
+        
         
         scanner.close();
 		
