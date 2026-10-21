@@ -69,5 +69,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicio | Descripción |
 |-----------|-------------|
-
+|[Ejercicio 1](./Tema_5/AdivinarNumeros.java)| Ejercicio para adivinar un numero generado al azar por el programa |
 
