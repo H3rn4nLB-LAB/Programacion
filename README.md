@@ -75,4 +75,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 4](./Tema_5/TablaMultiplicacion.java)| Ejercicio para mostrar una tabla de multiplicación utilizando bucles anidados |
 |[Ejercicio 5](./Tema_5/MaximoDivisorComun.java)| Ejercicio para calcular el máximo divisor común de dos números |
 |[Ejercicio 6](./Tema_5/Cohete.java)| Ejercicio para simular el contador hacia atrás del despegue de un cohete (usando un bucle while) |
+|[Ejercicio 7](./Tema_5/TablaDelNueve.java)| Ejercicio para mostrar la tabla de multiplicación del 9 (usando un bucle for) |
+|[Ejercicio 8](./Tema_5/CalificacionNota.java)| Ejercicio para convertir una nota numérica en su calificación textual (usando bucles anidados if-else) |
+
 
