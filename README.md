@@ -72,3 +72,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 1](./Tema_5/AdivinarNumeros.java)| Ejercicio para adivinar un numero generado al azar por el programa |
 |[Ejercicio 2](./Tema_5/ExamenTest.java)| Ejercicio para responder preguntas de un examen |
 |[Ejercicio 3](./Tema_5/ValorCentinela.java)| Ejercicio para probar el valor centinela (suma hasta que el usuario ponga 0) |
+|[Ejercicio 4](./Tema_5/TablaMultiplicacion.java)| Ejercicio para mostrar una tabla de multiplicación utilizando bucles anidados |
+|[Ejercicio 5](./Tema_5/MaximoDivisorComun.java)| Ejercicio para calcular el máximo divisor común de dos números |
+|[Ejercicio 6](./Tema_5/Cohete.java)| Ejercicio para simular el contador hacia atrás del despegue de un cohete (usando un bucle while) |
+
