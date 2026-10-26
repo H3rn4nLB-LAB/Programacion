@@ -77,5 +77,12 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 6](./Tema_5/Cohete.java)| Ejercicio para simular el contador hacia atrás del despegue de un cohete (usando un bucle while) |
 |[Ejercicio 7](./Tema_5/TablaDelNueve.java)| Ejercicio para mostrar la tabla de multiplicación del 9 (usando un bucle for) |
 |[Ejercicio 8](./Tema_5/CalificacionNota.java)| Ejercicio para convertir una nota numérica en su calificación textual (usando bucles anidados if-else) |
-
+|[Ejercicio 9](./Tema_5/Escalera.java)| Ejercicio para mostrar una escalera de números (usando bucles anidados) |
+|[Ejercicio 10](./Tema_5/NumerosPrimos.java)| Ejercicio para mostrar todos los números primos desde el 1 hasta el 50 |
+|[Ejercicio 11](./Tema_5/SumaNumeros.java)| Ejercicio para realizar una suma de numeros (hasta poner 0) y mostrar el resultado total |
+|[Ejercicio 12](./Tema_5/ContadorVocales.java)| Ejercicio para contar las vocales que hay en una cadena de caracteres |
+|[Ejercicio 13](./Tema_5/AcumuladorNumeros.java)| Ejercicio similar al ejercicio 11, pero también muestra la media de la suma total |
+|[Ejercicio 14](./Tema_5/Secuencia.java)| Ejercicio para introducir numeros (hasta poner el 27) y que el programa nos diga si se ha introducido el numero 14 |
+|[Ejercicio 15](./Tema_5/Factorial.java)| Ejercicio para calcular el factorial de un numero |
+|[Ejercicio 16](./Tema_5/NumerosPrimosRango.java)| Ejercicio para mostrar todos los numeros primos desde un rango deseado por el usurio |
 
