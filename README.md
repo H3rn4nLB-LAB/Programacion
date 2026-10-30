@@ -84,13 +84,12 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 13](./Tema_5/SumaNumeros.java)| Ejercicio para realizar una suma de numeros (hasta poner 0) y mostrar el resultado total |
 |[Ejercicio 14](./Tema_5/NumerosPares.java)| Ejercicio para mostrar todos los números pares desde el 1 hasta el numero pedido por el usuario |
 |[Ejercicio 15](./Tema_5/ContarCifras.java)| Ejercicio para contar las cifras de un numero entero positivo |
-|[Ejercicio 16](./Tema_5/EsPrimo.java)| Ejercicio para determinar si un numero introducido por el usuario es primo |
-|[Ejercicio 17](./Tema_5/RectanguloAsteriscos.java)| Ejercicio para mostrar un rectángulo hecho de asteriscos dependiendo de cuantas filas y columnas quiera el usuario |
-|[Ejercicio 18](./Tema_5/CuadradoNumerico.java)| Ejercicio para mostrar un cuadrado numérico dependiendo del numero de filas y columnas |
-|[Ejercicio 19](./Tema_5/MatrizNumerica.java)| Ejercicio para mostrar una matriz numérica, en la que cada posición contenga el número de su fila multiplicado por el número de su columna. |
-|[Ejercicio 20](./Tema_5/ContadorVocales.java)| Ejercicio para contar las vocales que hay en una cadena de caracteres |
-|[Ejercicio 21](./Tema_5/AcumuladorNumeros.java)| Ejercicio similar al ejercicio 11, pero también muestra la media de la suma total |
-|[Ejercicio 22](./Tema_5/Secuencia.java)| Ejercicio para introducir numeros (hasta poner el 27) y que el programa nos diga si se ha introducido el numero 14 |
-|[Ejercicio 23](./Tema_5/Factorial.java)| Ejercicio para calcular el factorial de un numero |
-|[Ejercicio 24](./Tema_5/NumerosPrimosRango.java)| Ejercicio para mostrar todos los numeros primos desde un rango deseado por el usurio |
+|[Ejercicio 16](./Tema_5/RectanguloAsteriscos.java)| Ejercicio para mostrar un rectángulo hecho de asteriscos dependiendo de cuantas filas y columnas quiera el usuario |
+|[Ejercicio 17](./Tema_5/CuadradoNumerico.java)| Ejercicio para mostrar un cuadrado numérico dependiendo del numero de filas y columnas |
+|[Ejercicio 18](./Tema_5/MatrizNumerica.java)| Ejercicio para mostrar una matriz numérica, en la que cada posición contenga el número de su fila multiplicado por el número de su columna. |
+|[Ejercicio 19](./Tema_5/ContadorVocales.java)| Ejercicio para contar las vocales que hay en una cadena de caracteres |
+|[Ejercicio 20](./Tema_5/AcumuladorNumeros.java)| Ejercicio similar al ejercicio 11, pero también muestra la media de la suma total |
+|[Ejercicio 21](./Tema_5/Secuencia.java)| Ejercicio para introducir numeros (hasta poner el 27) y que el programa nos diga si se ha introducido el numero 14 |
+|[Ejercicio 22](./Tema_5/Factorial.java)| Ejercicio para calcular el factorial de un numero |
+|[Ejercicio 23](./Tema_5/NumerosPrimosRango.java)| Ejercicio para mostrar todos los numeros primos desde un rango deseado por el usurio |
 
