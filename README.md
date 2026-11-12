@@ -100,3 +100,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |-----------|-------------|
 |[Ejercicio 1](./Tema_6/BibliotecaFunciones.java)| Programa que realiza funciones matemáticas mediante métodos |
 |[Ejercicio 2](./Tema_6/Maximo.java)| Programa con método que calcula el máximo de dos números |
+|[Ejercicio 3](./Tema_6/Maximo3Numeros.java)| Programa con método que calcula el máximo de tres números |
