@@ -93,3 +93,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 22](./Tema_5/Factorial.java)| Ejercicio para calcular el factorial de un numero |
 |[Ejercicio 23](./Tema_5/NumerosPrimosRango.java)| Ejercicio para mostrar todos los numeros primos desde un rango deseado por el usurio |
 
+
+## Tema 6: Métodos
+
+| Ejercicio | Descripción |
+|-----------|-------------|
+|[Ejercicio 1](./Tema_6/BibliotecaFunciones.java)| Programa que realiza funciones matemáticas mediante métodos |
