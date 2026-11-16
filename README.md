@@ -106,3 +106,12 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 6](./Tema_6/NumerosAmigos.java)| Programa con método para adivinar si dos números son amigos |
 |[Ejercicio 7](./Tema_6/FechaValida.java)| Programa con métodos que lea fechas validas por teclado y calcule el día de la semana que corresponde a esa fecha. |
 
+
+
+## Tema 7: Matrices unidimensionales (Arrays)
+
+| Ejercicio | Descripción |
+|-----------|-------------|
+
+
+
