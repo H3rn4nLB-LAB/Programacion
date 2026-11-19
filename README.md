@@ -1,4 +1,4 @@
-# Programacion
+<img width="987" height="757" alt="image" src="https://github.com/user-attachments/assets/a2b4e4d5-fa10-4c84-9961-4ae204a3dd58" /># Programacion
 
 Este repositorio incluye actividades llevadas a cabo en el módulo de programación durante el curso escolar 2026/2027.
 
@@ -112,6 +112,15 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicio | Descripción |
 |-----------|-------------|
-
+|[Ejercicio 1](./Tema_7/Array1.java)| Ejercicio para mostrar un array con los 100 primeros números en orden ascendente |
+|[Ejercicio 2](./Tema_7/Array2.java)| Ejercicio para mostrar un array con los 100 primeros números en orden descendente |
+|[Ejercicio 3](./Tema_7/Array3.java)| Ejercicio para mostrar un array formado por los números pares entre 1 y 100 |
+|[Ejercicio 4](./Tema_7/Array4.java)| Ejercicio para mostrar un array formado por los números impares entre 1 y 100 |
+|[Ejercicio 5](./Tema_7/Array5.java)| Ejercicio similar al anterior, pero tiene un método para comprobar si un número es primo |
+|[Ejercicio 6](./Tema_7/Array6.java)| Ejercicio para almacenar 10 números leídos por teclado en un array y mostrarlos en orden inverso |
+|[Ejercicio 7](./Tema_7/Array7.java)| Ejercicio para mostrar la suma, resta, multiplicación y división de 10 números leídos por teclado y almacenados en un array |
+|[Ejercicio 8](./Tema_7/Array8.java)| Ejercicio para mostrar la suma de los 100 números pares (almacenados en un array) |
+|[Ejercicio 9](./Tema_7/Array9.java)| Ejercicio para mostrar la media de 10 números leídos por teclado y almacenados en un array |
+|[Ejercicio 10](./Tema_7/Array10.java)| Ejercicio para mostrar 10 números leídos por teclado y almacenados en un array de forma ascendente |
 
 
