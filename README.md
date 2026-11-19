@@ -1,5 +1,3 @@
-<img width="987" height="757" alt="image" src="https://github.com/user-attachments/assets/a2b4e4d5-fa10-4c84-9961-4ae204a3dd58" /># Programacion
-
 Este repositorio incluye actividades llevadas a cabo en el módulo de programación durante el curso escolar 2026/2027.
 
 ## Tema 1: Introducción a las computadoras, a los programas y Java.
