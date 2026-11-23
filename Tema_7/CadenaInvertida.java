@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Array16 {
+public class CadenaInvertida {
 
 	// Metodo para pedir y leer la cadena por teclado y la devuelve
 	public static String leerCadena(Scanner scanner) {
