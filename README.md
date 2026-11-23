@@ -120,5 +120,12 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 8](./Tema_7/Array8.java)| Ejercicio para mostrar la suma de los 100 números pares (almacenados en un array) |
 |[Ejercicio 9](./Tema_7/Array9.java)| Ejercicio para mostrar la media de 10 números leídos por teclado y almacenados en un array |
 |[Ejercicio 10](./Tema_7/Array10.java)| Ejercicio para mostrar 10 números leídos por teclado y almacenados en un array de forma ascendente |
-
+|[Ejercicio 11](./Tema_7/Array11.java)| Ejercicio para almacenar 10 números leídos por teclado en dos arrays distintos y mostrarlos luego en un solo array |
+|[Ejercicio 12](./Tema_7/Array12.java)| Ejercicio para mostrar una versión de un array cuyos números estén multiplicados por dos |
+|[Ejercicio 13](./Tema_7/Array13.java)| Ejercicio para mostrar un array formado por los números de un array y otro con los números multiplicados por dos, y los números están ordenados de menor a mayor |
+|[Ejercicio 14](./Tema_7/Array14.java)| Ejercicio para mostrar ordenados de mayor a menor números positivos y negativos de un array |
+|[Ejercicio 15](./Tema_7/Array15.java)| Ejercicio para buscar el número concreto de un array de 20 números|
+|[Ejercicio 16](./Tema_7/CadenaInvertida.java)| Ejercicio para leer una cadena por teclado y mostrarla leída al revés |
+|[Ejercicio 17](./Tema_7/ContadorVocales.java)| Ejercicio para contar las vocales de una cadena |
+|[Ejercicio 18](./Tema_7/ContadorMayusculas.java)| Ejercicio para contar las leteas mayúsculas de una cadena |
 
