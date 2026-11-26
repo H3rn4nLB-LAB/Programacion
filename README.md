@@ -128,4 +128,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 16](./Tema_7/CadenaInvertida.java)| Ejercicio para leer una cadena por teclado y mostrarla leída al revés |
 |[Ejercicio 17](./Tema_7/ContadorVocales.java)| Ejercicio para contar las vocales de una cadena |
 |[Ejercicio 18](./Tema_7/ContadorMayusculas.java)| Ejercicio para contar las leteas mayúsculas de una cadena |
+|[Ejercicio 19](./Tema_7/CifradoCesar.java)| Ejercicio para encriptar y desencriptar mensajes mediante el cifrado de cesar |
+|[Ejercicio 18](./Tema_7/ContadorFrecuenciaVocales.java)| Ejercicio para contar cuantas veces aparece cada vocal |
 
