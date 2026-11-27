@@ -130,4 +130,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |[Ejercicio 18](./Tema_7/ContadorMayusculas.java)| Ejercicio para contar las leteas mayúsculas de una cadena |
 |[Ejercicio 19](./Tema_7/CifradoCesar.java)| Ejercicio para encriptar y desencriptar mensajes mediante el cifrado de cesar |
 |[Ejercicio 20](./Tema_7/ContadorFrecuenciaVocales.java)| Ejercicio para contar cuantas veces aparece cada vocal |
-
+|[Ejercicio 21](./Tema_7/CalcularSueldos.java)| Ejercicio para calcular los sueldos de unos trabajadores (20€ por hora) |
+|[Ejercicio 22](./Tema_7/SueldoMayorMenor.java)| Ejercicio para mostrar el empleado que gana más sueldo y el que gana menos|
+|[Ejercicio 23](./Tema_7/GestorDeStock.java)| Ejercicio para simular el gestor de stock de una tienda |
+|[Ejercicio 24](./Tema_7/GestorDeNotas.java)| Ejercicio para simular el gestor de notas de una clase |
